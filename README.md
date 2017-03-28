@@ -7,6 +7,7 @@ Your task here is to build a super simple Express server from scratch.
 1. All the npm modules you might need are already included in package.json. Begin by installing your requirements.
 2. In your `index.js`, create a simple Express server that generates a frontend from the `public/` directory. 
 3. Your server should also expose **ONE** api endpoint - a GET request to `/api/info` which will return some text in json.
+4. Create a github repo and git commit, push your work. 
 
 ## API docs
 
